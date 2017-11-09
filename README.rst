@@ -1,7 +1,10 @@
 Hangman
 
+=======
+
 https://github.com/mos-polytech/hangman/pull/7
 Мой PR в репозитории mos-polytech.
+
 =======
 
 .. image:: https://travis-ci.org/mos-polytech/hangman.svg?branch=master
